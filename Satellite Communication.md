@@ -1,5 +1,4 @@
 **Satellite Communication**  
-हर हर महादेव
 
 **Name: Yash Patodkar**  
 **Subject CSEN: 233**  
@@ -118,14 +117,14 @@ Satellite communication operates through **three main types of orbits**:
 
 Although satellite communication has many benefits, it also comes with some challenges. These include high costs, delays in signal transmission (especially in GEO satellites), government rules and regulations, and the risk of space debris interfering with signals. However, new technology is helping to solve these problems. Scientists and engineers are making smaller and more advanced satellites, improving how satellites communicate with each other, and using better frequency bands to send data faster and more efficiently. As more people around the world need fast and reliable internet, satellite communication will become even more important in connecting remote areas and ensuring smooth communication everywhere.
 
-![][image1]  
+![Advisor response for a Jinja query](./Images/Representation%20of%20all%20satellites%20surrounding%20Earth.png)
 			Figure \- Representation of all satellites surrounding Earth
 
 2. **History**
 
 The idea of satellite communication was convinced by Arthur C. Clarke. He published an article in British Magazine “Extraterrestrial Relays”. The article described the fundamentals behind the deployment of artificial satellites in GEO orbit to transmit signals to and fro from satellites to earth stations and vice versa. The first artificial satellite was Sputnik 1, which was put into orbit by the Soviet Union on 4th of October 1957\. Sputnik 1 was equipped with a radio transmitter that worked on 2 frequencies 20.005 and 40.002 MHz. It was not meant to transmit data from one Earth station to another but to study the properties of radio wave distribution throughout the ionosphere. The first Satellite built to relay communication was Project SCORE led by APRA was launched on 18th of December 1958 which used a tape recorder to carry a stored voice message by then US President, which contained a Christmas greeting to the world. 
 
-![Timeline of first orbital launches by country - Wikipedia][image2]  
+![Timeline of first orbital launches by country - Wikipedia](./Images/Sputnik%201.png)  
 Figure 1 \- First satellite launched into Earth’s orbit Sputnik 1
 
 GPS(Global Positioning System) was fully operational in the 1990s , and DTH(direct to home) television became widely available as well as accessible. In the early 2000s The first Ka-band satellites were deployed, supporting broadband satellite internet services. High-Throughput Satellites (HTS) increased data transmission capacity, making satellite internet more viable for businesses and rural areas. The development of low-power, high-efficiency transponders enabled better connectivity.
@@ -234,13 +233,14 @@ At this stage the original message is decoded and reconstructed to its original 
 
 The entire process—from uplink transmission to downlink reception—occurs in a matter of milliseconds, enabling real-time communication across different parts of the world. How fascinating\!
 
- ![][image3]
+
+![Appendix A Frequency bands of operation - Satellite Newsgathering, 2nd  Edition \[Book\]](./Images/Uplink%20downlink%20freq.png)
 
 Figure 2 \- Demonstrating uplink and downlink
 
 		
 
-![Appendix A Frequency bands of operation - Satellite Newsgathering, 2nd  Edition \[Book\]][image4]
+![Appendix A Frequency bands of operation - Satellite Newsgathering, 2nd  Edition \[Book\]](./Images/uplink%20and%20downlink.png)
 
 Figure 3- Demonstrating uplink and downlink frequencies differ
 
@@ -391,7 +391,7 @@ Satellites operate on different frequency bands, each suited for different appli
    * Disadvantages: More sensitive to weather conditions than Ku-band.  
    * Application: High-speed internet services used by Starlink
 
-![][image5]
+![](./Images/frequency%20bands%20available.png)
 
 Figure 4 \- Table of all the frequency bands available
 
@@ -492,7 +492,7 @@ Satellite Internet & Latency: LEO satellites move quickly and cover different re
 
 5. **Network Protocols Involved in Satellite Communication**
 
-![][image6]
+![](./Images/Protocols.png)
 
 Figure 5 \- Space Communications Protocols Reference Model
 
@@ -650,7 +650,7 @@ Simulation studies have demonstrated that:
 * The algorithm **effectively adapts to rapid orbital changes**, maintaining a near-optimal **mesh topology**.  
 * **Link reconfiguration overheads** are substantially reduced, leading to **enhanced network stability**.
 
-![undefined][image7]
+![undefined](./Images/ACO.png)
 
 Figure 6 \- Visualization of ACO
 
@@ -785,7 +785,7 @@ International cooperation and regulation are crucial for addressing space debris
 
 In conclusion, space debris is a growing problem that threatens current and future space operations. Understanding its nature, from defunct satellites to fragmentation from collisions, is essential for developing effective mitigation strategies. Through active removal techniques, enhanced monitoring, and international cooperation, the space community aims to preserve the near-Earth environment and ensure that space remains a safe and sustainable domain for exploration and innovation.
 
-![Simulation of orbital debris around Earth demonstrating the object population in the geosynchronous region.][image8]
+![Simulation of orbital debris around Earth demonstrating the object population in the geosynchronous region.](./Images/debris%20around%20Earth.png)
 
 Figure- Simulation of orbital debris around Earth demonstrating the object population in the geosynchronous region.
 
